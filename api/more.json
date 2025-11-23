@@ -1,0 +1,118 @@
+{
+  "sections": [
+    {
+      "title": "Widget Apps",
+      "type": "widgets",
+      "items": [
+        {
+          "name": "KWGT Kustom Widget",
+          "description": "Create stunning custom widgets",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=org.kustom.widget"
+        },
+        {
+          "name": "Widget Drawer",
+          "description": "Quick access to all your widgets",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=com.ss.widgetdrawer"
+        },
+        {
+          "name": "Widgetopia",
+          "description": "Beautiful iOS-style widgets",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=com.nova.widgetopia"
+        },
+        {
+          "name": "KWCH Icon Pack",
+          "description": "Icon pack for Kustom widgets",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=org.kustom.iconpack"
+        },
+        {
+          "name": "Another Widget",
+          "description": "Minimal calendar & weather widgets",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=com.tommasoberlose.anotherwidget"
+        }
+      ]
+    },
+    {
+      "title": "Icon Packs",
+      "type": "iconpacks",
+      "items": [
+        {
+          "name": "Linebit Icon Pack",
+          "description": "Beautiful minimalist line icons",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=com.edzondm.linebit"
+        },
+        {
+          "name": "Pix Material Icon Pack",
+          "description": "Material Design inspired icons",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material"
+        },
+        {
+          "name": "Delta Icon Pack",
+          "description": "Premium gradient icon pack",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=website.leifs.delta"
+        },
+        {
+          "name": "Crayon Icon Pack",
+          "description": "Colorful hand-drawn style icons",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack"
+        },
+        {
+          "name": "Whicons Icon Pack",
+          "description": "White minimalist icons",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=com.whicons.iconpack"
+        },
+        {
+          "name": "Viral Icon Pack",
+          "description": "Popular trending icon pack",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=com.viral.free.icon.pack"
+        }
+      ]
+    },
+    {
+      "title": "Wallpaper Apps",
+      "type": "wallpapers",
+      "items": [
+        {
+          "name": "Wallcraft",
+          "description": "Premium HD & 4K wallpapers",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=com.wallcraft.app"
+        },
+        {
+          "name": "Backdrops",
+          "description": "Curated collection of wallpapers",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers"
+        },
+        {
+          "name": "Walli",
+          "description": "Artist-created wallpapers",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=com.shanga.walli"
+        },
+        {
+          "name": "Zedge",
+          "description": "Wallpapers, ringtones & more",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=net.zedge.android"
+        },
+        {
+          "name": "Resplash",
+          "description": "Unsplash wallpapers for Android",
+          "image_url": "https://i.ibb.co/207qMnwL/LOGO-2-1.png",
+          "url": "https://play.google.com/store/apps/details?id=com.b_lam.resplash"
+        }
+      ]
+    }
+  ]
+}
